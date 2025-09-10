@@ -23,4 +23,4 @@ The dashboard provides interactive visualizations to help HR teams make data-dri
 - Male attrition is higher compared to female employees.  
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](./dashboard.png) 
+![Dashboard Screenshot](https://github.com/rakesh765483/HR-Analytics-dashboard/blob/main/Screenshot%202025-09-10%20205104.png) 
